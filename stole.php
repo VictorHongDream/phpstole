@@ -1,6 +1,5 @@
 <?php
 /*
-$this->loadClass("stole",false,false);
 $st= new stole();
 $st->getContent("http://www.skymvc.com/");
 $st->cutHtml('<ul class="data-list">');
